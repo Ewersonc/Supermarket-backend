@@ -14,7 +14,7 @@ Tecnologias Utilizadas
 
 ------------------------------------------------------------------------
 
-## 🛠 Melhorias Futuras
+Melhorias Futuras
 
 -   Implementar banco de dados real
 -   Middleware de erros
